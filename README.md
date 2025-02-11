@@ -1,4 +1,4 @@
-# 🎪 AFUZZ: A URL Fuzzer 🎮  
+# 🎪 AFUZZ: Async URL Fuzzer 🎮  
 
 Welcome to **AFUZZ**, a lightweight and efficient URL fuzzing tool designed to test web applications for vulnerabilities or hidden endpoints. Whether you're a penetration tester, bug bounty hunter, or just someone who loves exploring the unknown, AFUZZ is here to make your fuzzing experience both fun and powerful! 🎉
 
