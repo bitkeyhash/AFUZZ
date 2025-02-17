@@ -37,7 +37,7 @@ AFUZZ replaces the `@` placeholder in the base URL with payloads from a wordlist
 1. Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/afuzz.git
-   cd afuzz
+   cd AFUZZ
    ```
 
 2. Install dependencies:  
